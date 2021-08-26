@@ -1,0 +1,49 @@
+<!--miniprogram/pages/type1.wxml-->
+<view class="title">
+  <text>日用百货</text>
+</view>
+<view class="goods_container">
+  <image src="https://g-search3.alicdn.com/img/bao/uploaded/i4/i3/2271279753/O1CN01DJloGZ2LuvWsNMrL3_!!0-item_pic.jpg_460x460Q90.jpg_.webp"></image>
+  <view class="font">
+    <text class="h1">【水果】云南精品香蕉</text>
+    <text class="count">已售999份</text>
+    <text class="price">￥9.9元</text>
+    <image class="buy" src="../../images/icon/buy_icon.png"></image>
+  </view>
+</view>
+<view class="goods_container">
+  <image src="https://g-search3.alicdn.com/img/bao/uploaded/i4/i3/2271279753/O1CN01DJloGZ2LuvWsNMrL3_!!0-item_pic.jpg_460x460Q90.jpg_.webp"></image>
+  <view class="font">
+    <text class="h1">【水果】云南精品香蕉</text>
+    <text class="count">已售999份</text>
+    <text class="price">￥9.9元</text>
+    <image class="buy" src="../../images/icon/buy_icon.png"></image>
+  </view>
+</view>
+<view class="goods_container">
+  <image src="https://g-search3.alicdn.com/img/bao/uploaded/i4/i3/2271279753/O1CN01DJloGZ2LuvWsNMrL3_!!0-item_pic.jpg_460x460Q90.jpg_.webp"></image>
+  <view class="font">
+    <text class="h1">【水果】云南精品香蕉</text>
+    <text class="count">已售999份</text>
+    <text class="price">￥9.9元</text>
+    <image class="buy" src="../../images/icon/buy_icon.png"></image>
+  </view>
+</view>
+<view class="goods_container">
+  <image src="https://g-search3.alicdn.com/img/bao/uploaded/i4/i3/2271279753/O1CN01DJloGZ2LuvWsNMrL3_!!0-item_pic.jpg_460x460Q90.jpg_.webp"></image>
+  <view class="font">
+    <text class="h1">【水果】云南精品香蕉</text>
+    <text class="count">已售999份</text>
+    <text class="price">￥9.9元</text>
+    <image class="buy" src="../../images/icon/buy_icon.png"></image>
+  </view>
+</view>
+<view class="goods_container">
+  <image src="https://g-search3.alicdn.com/img/bao/uploaded/i4/i3/2271279753/O1CN01DJloGZ2LuvWsNMrL3_!!0-item_pic.jpg_460x460Q90.jpg_.webp"></image>
+  <view class="font">
+    <text class="h1">【水果】云南精品香蕉</text>
+    <text class="count">已售999份</text>
+    <text class="price">￥9.9元</text>
+    <image class="buy" src="../../images/icon/buy_icon.png"></image>
+  </view>
+</view>
